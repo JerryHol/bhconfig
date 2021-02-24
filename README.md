@@ -147,7 +147,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
   - Items worth good gold will have $ and prices in front
   - Progressive potions display based on clvl to show low HP, Mana, stamina, antidote, thawing, and strangle potions on all filtlvls
   - Progressive trailing gold prices when filtlvl under 2 for items. (e.g. 25k in norm, 35k in hell) Might be slightly off in normal as it's clvl based instead.
-  - added display weapon range and seep line (uncommented to use)
+  - added display weapon range and speed line (uncommented to use)
   - added display ilvl line (uncomment to use)
   - Rejuv and full rejuves changed to R1 and R2 respectively
   - Hide gold piles under 100 if char level is over level 2.
