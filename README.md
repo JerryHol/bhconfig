@@ -19,7 +19,7 @@
 See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page for the latest version and change log.
 
 
-#LeBron's BH.cfg Compared to m81's latest config v2.5.9
+# LeBron's BH.cfg Compared to m81's latest config v2.5.9
 
 -differentiated a bit more between filter level 1 and 2 on some items, mostly to add a gap for the first week or two after a ladder reset until endgame filter levels 2 and aggressive.
 -added classic shopping section that's commented out (uncomment if playing classic)
