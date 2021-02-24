@@ -156,3 +156,13 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
   - unhide greater mana and health potions if filter level over 0 (M4 and HP4)
   - fixed description for greater and super mana and health potions
   - added item description for  2os exceptional Spears or Polearms - Strength runeword
+
+# LeBron's BH_Settings.cfg Compared to m81's v1.4
+* show automap on join option
+* Skip NPC quest messages option
+* Show settings option
+* Added screeninfo congif for xp info
+* Rejuv button
+* always view loot option
+* run tracker info
+* Mustache template for stash export
