@@ -80,7 +80,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 * Socketables:
 - Tier 3
   - 3 chant, 1+ FM orb capable of 3os (plague) -Slash Specific
-  - 3 Energy shield ES orb capable of 3os (plague) -Slash Specific
+  - 3 Energy shield ES orb capable of 3os (plague) -Slash Specific (uncommented)
   - 0os ETH monarch ebuggable (spirit)
 - Tier 4
   - changed map dots from gold to white dot with gold border for all Tier 4 socketables
@@ -143,6 +143,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
   - added rare belts under 60str filter level 2+ show map box but no ping tier 6. yellow border with black dot on map
 
 * Other:
+  - Rejuves are R1 and R2. Greater potions are not hidden automatically.
   - Show price of items if clvl is under 35 and filter level is 0
   - Items worth good gold will have $ and prices in front
   - Progressive potions display based on clvl to show low HP, Mana, stamina, antidote, thawing, and strangle potions on all filtlvls
