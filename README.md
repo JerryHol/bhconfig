@@ -79,7 +79,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 * Socketables:
 - Tier 3
   - 3 chant, 1+ FM orb capable of 3os (plague) -Slash Specific
-  - 3 Energy shield ES orb capable of 3os (plague) -Slash Specific (uncommented)
+  - 3 Energy shield ES orb capable of 3os (plague) -Slash Specific (uncomment to use)
   - 0os ETH monarch ebuggable (spirit)
 - Tier 4
   - changed map dots from gold to white dot with gold border for all Tier 4 socketables
@@ -90,8 +90,8 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
   - ping only top 20% 3os Archon Plates. Previously it would ping all 0/3/4os
   - 6os phase blade (Gold find / Last wish / 6 ist)
   - 2 chant orb capable of 3os (plague) -Slash Specific
-  - 1 chant 1 ES orb capable of 3os (plague) -Slash Specific
-  - 1 energy shield ES orb capable of 3os (plague)
+  - 1 chant 1 ES orb capable of 3os (plague) -Slash Specific (uncomment to use)
+  - 1 energy shield ES orb capable of 3os (plague) (uncomment to use)
   - 3os Archon Plate any defense eth/non eth
   - 0os or 3os Archon Plate (top 20%)
   - 3os Archon Plate superior any ED
@@ -156,6 +156,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
   - unhide greater mana and health potions if filter level over 0 (M4 and HP4)
   - fixed description for greater and super mana and health potions
   - added item description for  2os exceptional Spears or Polearms - Strength runeword
+  - added tp scrolls, id scrolls, and keys to be hidden if filtlvl=3
 
 # LeBron's BH_Settings.cfg Compared to m81's v1.4
 * show automap on join option
@@ -167,7 +168,27 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 * run tracker info
 * Mustache template for stash export
 
-#LeBron's BH-classic.cfg
+# LeBron's BH-classic.cfg
 * has many nice features that use the filtlvl and ping lvl's just like the expansion one, but dedicated to classic items only.
 * To be used only in classic mode.
 * Rename to BH.cfg before use.
+
+#  dschu012's (Danny's) BH.cfg BETA features
+* Comes with everything on Planqi's 1.9.9(default with Slashdiablo launcher) but with some new features on top such as:
+* Updates Dec 12 2020 (added player count column, session counter)
+* Show Automap on Join
+* permanently show items on ground (press space 1 time to toggle)
+* enhancements to see xp stats of pervious run on top right of screen info
+* Auto skip npc quest messages
+* Hotkey to use rejuv potions from inventory
+* Item mover features fixed with plugy
+* Run tracker - Track xp and drops for your character. File saved in `./data/%CHARNAME%.csv`, a folder called `data` in your slashdiablo directory 
+* Note: in BH_settings.cfg `Run Details Ping Level` is the ping level of items you want to record (default ping level 4). You can add `%notrack%`  in your config if you want to disable tracking of certain  items like charms/gems.
+* More details here about this BH version can be found in dschu012's pull requests [here](https://github.com/planqi/slashdiablo-maphack/pulls)
+
+# Installation of Everything Here
+* Close all Diablo 2
+* Backup your `BH.cfg` file in the diablo 2 folder
+* In launcher set Maphack Version to None and Override to  ON
+* Patch/update with Launcher
+* Download `BH.cfg`, `BH-classic.cfg`, and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder
