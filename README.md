@@ -21,8 +21,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 
 # LeBron's BH.cfg Compared to m81's latest config v2.5.9
 * Differentiated a bit more between filter level 1 and 2 on some items, mostly to add a gap for the first week or two after a ladder reset until endgame filter levels 2 and aggressive.
-* Added classic shopping section that's commented out (uncomment if playing classic)
-* Added classic stuff section that's commented out (uncomment if playing classic)
+
 
 * Gems:
 
@@ -167,3 +166,8 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 * always view loot option
 * run tracker info
 * Mustache template for stash export
+
+#LeBron's BH-classic.cfg
+* has many nice features that use the filtlvl and ping lvl's just like the expansion one, but dedicated to classic items only.
+* To be used only in classic mode.
+* Rename to BH.cfg before use.
