@@ -177,7 +177,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 * Comes with everything on Planqi's 1.9.9(default with Slashdiablo launcher) but with some new features on top such as:
 * Updates Dec 12 2020 (added player count column, session counter)
 * Show Automap on Join
-* permanently show items on ground (press space 1 time to toggle)
+* permanently show items on ground (press L 1 time to toggle)
 * enhancements to see xp stats of pervious run on top right of screen info
 * Auto skip npc quest messages
 * Hotkey to use rejuv potions from inventory
