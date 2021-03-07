@@ -34,7 +34,8 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 
 * Runes:
 
-  - rals and hels lines are tier 5
+  - hels lines are tier 5
+  - added sol lines to behave like rals for ring crafting (uncomment to use)
   - spirit rune sets get small green dots with filtlvl 0 and 1 and tier 5
   - insight runes get small pink dots with filtlvl 0 and 1 and tier 5
   - orts for reparing get small gray dot if filtlvl 0 or 1 and tier 4
@@ -71,7 +72,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
   - M'avina's Tenet (Belt)
   - Natalya's Soul (Boots)
   - Medusa's Gaze (Shield)
-  - Cleglaw's Pincers (Chain Gloves / Bracers)
+  - Cleglaw's Pincers (Chain Gloves / Bracers) only if filter = 0
   - Maelstrom (Yew Wand) only if filter = 0
   - made herb t3
   - made token tier 3
@@ -79,25 +80,24 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 * Socketables:
 - Tier 3
   - 3 chant, 1+ FM orb capable of 3os (plague) -Slash Specific
-  - 3 Energy shield ES orb capable of 3os (plague) -Slash Specific (uncomment to use)
-  - 0os ETH monarch ebuggable (spirit)
 - Tier 4
   - changed map dots from gold to white dot with gold border for all Tier 4 socketables
+  - 0os ETH monarch ebuggable (spirit)
+  - 3 Energy shield ES orb capable of 3os (plague) -Slash Specific (uncomment to use)
+  - 3 chant orb capable of 3os (plague) -Slash Specific
+ 
 - Tier 5
   - 4os ETH monarch (spirit)
   - 3os dusk shrouds
-  - ping only top 10% 3os dusk shroud, wyrmhide, scarab husk, wire fleece, great hauberk. Previously it would ping all 0/3/4os
-  - ping only top 20% 3os Archon Plates. Previously it would ping all 0/3/4os
   - 6os phase blade (Gold find / Last wish / 6 ist)
   - 2 chant orb capable of 3os (plague) -Slash Specific
   - 1 chant 1 ES orb capable of 3os (plague) -Slash Specific (uncomment to use)
   - 1 energy shield ES orb capable of 3os (plague) (uncomment to use)
-  - 3os Archon Plate any defense eth/non eth
-  - 0os or 3os Archon Plate (top 20%)
-  - 3os Archon Plate superior any ED
-  - inferior archon plates able to get 3os with cube recipe
+  - 0os or 3os Archon Plate (top 20%) (uncomment to use)
+  - inferior archon plates able to get 3os with cube recipe (uncomment to use)
 - Tier 6
   - added cap of char level 60 to pings for 0os polearms that get 4 sockets from Larzuk and removed CV's (too high str req)
+  - Added 2 lines for 0os CV's that get 4 sockets from Larzuk, no notification by default, if you want notification uncomment to use
   - 3os masks (mask only helms for low str req) 
   - 3os helms (others for merc/ higher str req excluding spired helms and coronas)
   - 3os eth, reasonable req 1h sword/axe (cmoon) (Changed from tier 4 to tier 6)
@@ -133,14 +133,17 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 - Tier 5
   - rare jewels ping only if filter level 0 or 1. yellow border with black dot on map
   - rare jewels filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
-  - rare boots ping only if filter level 0 or 1. yellow border with black dot on map
-  - rare boots filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
-  - rare gloves ping only if filter level 0 or 1. yellow border with black dot on map
-  - rare gloves filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
+  - rare boots (not Mirrored or Myrmidon - too high str req) ping only if filter level 0 or 1. yellow border with black dot on map
+  - rare boots (not Mirrored or Myrmidon - too high str req) filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
+  - rare gloves (not Ogre Gauntlets - too high str req) ping only if filter level 0 or 1. yellow border with black dot on map
+  - rare gloves (not Ogre Gauntlets - too high str req) filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
 - Tier 6
   - added rare belts under 60str ping only if filter level 0 or 1. yellow border with black dot on map
   - added rare belts under 60str filter level 2+ show map box but no ping tier 6. yellow border with black dot on map
-
+- Whitelist
+  - Rare Ogre Gauntlets
+  - Rare Mirrored and Myrmidon Boots
+  - Rare Troll belts and Colossus Girdle
 * Other:
   - Rejuves are R1 and R2. Greater potions are not hidden automatically.
   - Show price of items if clvl is under 35 and filter level is 0
@@ -157,6 +160,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
   - fixed description for greater and super mana and health potions
   - added item description for  2os exceptional Spears or Polearms - Strength runeword
   - added tp scrolls, id scrolls, and keys to be hidden if filtlvl=3
+  - Certain useless Rare weapons hidden on filtlvl=2 (non eth only)
 
 # LeBron's BH_Settings.cfg Compared to m81's v1.4
 * show automap on join option
