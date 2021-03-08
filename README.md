@@ -128,6 +128,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 
 * Rare items:
 - Tier 4
+  - rare amulets now tier 5
   - rare amulets ping only if filter level 0 or 1. yellow border with black dot on map
   - rare amulets filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
 - Tier 5
@@ -138,8 +139,8 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
   - rare gloves (not Ogre Gauntlets - too high str req) ping only if filter level 0 or 1. yellow border with black dot on map
   - rare gloves (not Ogre Gauntlets - too high str req) filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
 - Tier 6
-  - added rare belts under 60str ping only if filter level 0 or 1. yellow border with black dot on map
-  - added rare belts under 60str filter level 2+ show map box but no ping tier 6. yellow border with black dot on map
+  - added rare belts under 150 str req with 4 box rows ping only if filter level 0 or 1. yellow border with black dot on map
+  - added rare belts under 150 str req with 4 box rows filter level 2+ show map box but no ping tier 6. yellow border with black dot on map
 - Whitelist
   - Rare Ogre Gauntlets
   - Rare Mirrored and Myrmidon Boots
