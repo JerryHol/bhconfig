@@ -14,9 +14,12 @@
 * The item filter works on an item by item basis. Only the junkiest stuff is hidden. Nothing is hidden with clvl<40. There is little risk that useful things are blocked by this filter.
 * Does not attempt to judge the value of identified rare/crafted/magic items. Does ping unidentified rare/magic items worth IDing.
 * Shows affix level on magic, rare, and crafted items when it is different from ilvl. The format is ilvl/alvl.
+* Config [User guide](https://github.com/youbetterdont/bhconfig/wiki/User-Guide)
+* how to Edit the config [guide](https://github.com/youbetterdont/bhconfig/wiki/How-to-edit-the-config)
+* Color palette and item information can be found either in [here](https://github.com/planqi/slashdiablo-maphack/wiki) or [here](https://github.com/underbent/slashdiablo-maphack/wiki)
 
 # M81's Releases
-See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page for the latest version and change log.
+See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page for the change logs.
 
 
 # LeBron's BH.cfg Compared to m81's latest config v2.5.9
