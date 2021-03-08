@@ -193,7 +193,7 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 
 # Installation of Everything Here
 * Close all Diablo 2
-* Backup your `BH.cfg` file in the diablo 2 folder
+* Backup your `BH.cfg` file in the diablo 2 folder if you care for your old config
 * In launcher set Maphack Version to None and Override to  ON
 * Patch/update with Launcher
-* Download `BH.cfg`, `BH-classic.cfg`, and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder
+* Download `BH.cfg`, `BH-classic.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder. 
