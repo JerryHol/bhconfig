@@ -20,7 +20,7 @@ This version makes it super easy to add items for your holy grail needs as well.
      - [BH settings changes logged here](https://github.com/BeLikeLeBron/bhconfig/blob/master/README.md#lebrons-bh_settingscfg-compared-to-m81s-v14)
      - Default Planqi BH.dll 1.9.9 (official release) [here for reference](https://github.com/planqi/slashdiablo-maphack/releases)
 
-#Config basics
+# Config basics
 * Items are grouped into tiers based on relative worth. Worth is loosely defined as some combination of usefulness and rarity.
 * Consistent colors are used to indicate the item tiers. The map box and item name indicator (leading 0) colors always match.
   - Tier1 (Orange): The good stuff. Sur, ber, jah, griff's, etc.
