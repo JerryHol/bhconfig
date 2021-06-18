@@ -1,4 +1,7 @@
 // All sets and uniques with items with pings for grail. Requires BH 1.9.9 to use!
+
+
+//  INSTRUCTIONS
 //All uniques are Tier 4 items, All sets are Tier 5 items. Feel free to change them as you wish.
 //MAKE SURE TO TURN ON Maphack OVERRIDE OPTION IN SLASHDIABLO LAUNCHER BEFORE EDITING YOUR BH.CFG FILE
 //Close D2. Simply Copy the lines you want from here, then in your BH.cfg file in your slashdiablo/d2 folder under the section labled "ADD HOLY GRAIL ITEMS HERE" paste them and save. 
