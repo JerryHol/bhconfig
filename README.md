@@ -10,6 +10,7 @@ This version makes it super easy to add items for your holy grail needs as well.
 * In Slashdiablo launcher set Maphack Version to None and Override to  ON
 * Patch/update with Launcher
 * Download `BH.cfg`, `BH-classic.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
+* In game you can toggle permanently show items on ground (press L 1 time to toggle)
 * Enjoy 
 
 - Requires Danny's BETA BH>=1.9.9 for BH_Setting.cfg.
