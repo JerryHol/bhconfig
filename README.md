@@ -1,5 +1,25 @@
 # About this config
-* Requires BH>=1.9.8 (planqi branch)
+
+These files were designed for SlashDiablo but can be used elsewhere since Slash is vanilla D2 with very few changes. 
+These are close to M81's (Slashdiablo default) BH maphack config tier system with quite a bit of changes to add QoL for low levels + some endgame things. Lots of changes are all logged in the link below. The settings file also utilizes the beta features added by DannyIsGreat like showing all items on the ground without holding a button and tracking your runs for you.
+This version makes it super easy to add items for your holy grail needs as well. BH-classic is a config specifically for in classic D2 mode.
+
+# INSTALLATION INSTRUCTIONS
+* Close all Diablo 2
+* Backup your `BH.cfg` file in the diablo 2 folder if you care for your old config
+* In Slashdiablo launcher set Maphack Version to None and Override to  ON
+* Patch/update with Launcher
+* Download `BH.cfg`, `BH-classic.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
+* Enjoy 
+
+- Requires Danny's BETA BH>=1.9.9 for BH_Setting.cfg.
+- BH.cfg and BH-classic.cfg Require BH>=1.9.9 (planqi 1.9.9 or Danny’s beta)
+- dschu012's (Danny's) beta BH.dll attached below. USE THIS ONE. More info on it [here](https://github.com/BeLikeLeBron/bhconfig#dschu012s-dannys-bhcfg-beta-features)
+     - [BH.cfg Changes logged here](https://github.com/BeLikeLeBron/bhconfig#lebrons-bhcfg-compared-to-m81s-last-config-v259-slashdiablo-default)
+     - [BH-classic.cfg features logged here](https://github.com/BeLikeLeBron/bhconfig#lebrons-bh-classiccfg)
+     - [BH settings changes logged here](https://github.com/BeLikeLeBron/bhconfig/blob/master/README.md#lebrons-bh_settingscfg-compared-to-m81s-v14)
+     - Default Planqi BH.dll 1.9.9 (official release) [here for reference](https://github.com/planqi/slashdiablo-maphack/releases)
+
 * Items are grouped into tiers based on relative worth. Worth is loosely defined as some combination of usefulness and rarity.
 * Consistent colors are used to indicate the item tiers. The map box and item name indicator (leading 0) colors always match.
   - Tier1 (Orange): The good stuff. Sur, ber, jah, griff's, etc.
@@ -14,13 +34,43 @@
 * The item filter works on an item by item basis. Only the junkiest stuff is hidden. Nothing is hidden with clvl<40. There is little risk that useful things are blocked by this filter.
 * Does not attempt to judge the value of identified rare/crafted/magic items. Does ping unidentified rare/magic items worth IDing.
 * Shows affix level on magic, rare, and crafted items when it is different from ilvl. The format is ilvl/alvl.
-* Config [User guide](https://github.com/youbetterdont/bhconfig/wiki/User-Guide)
-* how to Edit the config [guide](https://github.com/youbetterdont/bhconfig/wiki/How-to-edit-the-config)
+* Config [User guide](https://github.com/BeLikeLeBron/bhconfig/wiki/User-Guide)
+* how to Edit the config [guide](https://github.com/BeLikeLeBron/bhconfig/wiki/How-to-edit-the-config)
 * Color palette and item information can be found either in [here](https://github.com/planqi/slashdiablo-maphack/wiki) or [here](https://github.com/underbent/slashdiablo-maphack/wiki)
 
 # M81's Releases
-See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page for the change logs.
+This is for the slashdiablo default reference files. See the [Old releases](https://github.com/youbetterdont/bhconfig/releases) page for the change logs.
 
+
+#  dschu012's (Danny's) BH.cfg BETA features
+* Comes with everything on Planqi's 1.9.9(default with Slashdiablo launcher) but with some new features on top such as:
+* Updated Dec 12 2020 (added player count column, session counter)
+* Show Automap on Join
+* permanently show items on ground (press L 1 time to toggle)
+* enhancements to see xp stats of pervious run on top right of screen info
+* Auto skip npc quest messages
+* Hotkey to use rejuv potions from inventory
+* Item mover features fixed with plugy
+* Run tracker - Track xp and drops for your character. File saved in `./data/%CHARNAME%.csv`, a folder called `data` in your slashdiablo directory 
+* Note: in BH_settings.cfg `Run Details Ping Level` is the ping level of items you want to record (default ping level 4). You can add `%notrack%`  in your config if you want to disable tracking of certain  items like charms/gems.
+* More details here about this BH version can be found in dschu012's pull requests [here](https://github.com/planqi/slashdiablo-maphack/pulls)
+
+
+# LeBron's BH_Settings.cfg Compared to m81's v1.4
+* show automap on join option
+* Skip NPC quest messages option
+* Show settings option
+* Added screeninfo congif for xp info
+* Rejuv button
+* always view loot option
+* Highlight Chaos Seal bosses/ubers on minimap (purple color)
+* Run tracker info
+* Mustache template for stash export
+
+# LeBron's BH-classic.cfg
+* has many nice features mentioned above and below that use the filtlvl and ping lvl's just like the expansion one, but dedicated to classic items only.
+* To be used only in classic mode of Diablo 2.
+* Rename to BH.cfg before use. more detailed instructions in the classic config file.
 
 # LeBron's BH.cfg Compared to m81's last config v2.5.9 (slashdiablo default)
 * Differentiated a bit more between filter level 1 and 2 on some items, mostly to add a gap for the first week or two after a ladder reset until endgame filter levels 2 and 3.
@@ -191,40 +241,3 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
   - added tp scrolls, id scrolls, and keys to be hidden if filtlvl=3
   - Certain useless Rare weapons hidden on filtlvl=2 (non eth only)
   - potion filter sectioned and clarrified for customizability
-
-# LeBron's BH_Settings.cfg Compared to m81's v1.4
-* show automap on join option
-* Skip NPC quest messages option
-* Show settings option
-* Added screeninfo congif for xp info
-* Rejuv button
-* always view loot option
-* Highlight Chaos Seal bosses/ubers on minimap (purple color)
-* Run tracker info
-* Mustache template for stash export
-
-# LeBron's BH-classic.cfg
-* has many nice features mentioned above that use the filtlvl and ping lvl's just like the expansion one, but dedicated to classic items only.
-* To be used only in classic mode of Diablo 2.
-* Rename to BH.cfg before use.
-
-#  dschu012's (Danny's) BH.cfg BETA features
-* Comes with everything on Planqi's 1.9.9(default with Slashdiablo launcher) but with some new features on top such as:
-* Updated Dec 12 2020 (added player count column, session counter)
-* Show Automap on Join
-* permanently show items on ground (press L 1 time to toggle)
-* enhancements to see xp stats of pervious run on top right of screen info
-* Auto skip npc quest messages
-* Hotkey to use rejuv potions from inventory
-* Item mover features fixed with plugy
-* Run tracker - Track xp and drops for your character. File saved in `./data/%CHARNAME%.csv`, a folder called `data` in your slashdiablo directory 
-* Note: in BH_settings.cfg `Run Details Ping Level` is the ping level of items you want to record (default ping level 4). You can add `%notrack%`  in your config if you want to disable tracking of certain  items like charms/gems.
-* More details here about this BH version can be found in dschu012's pull requests [here](https://github.com/planqi/slashdiablo-maphack/pulls)
-
-# INSTALLATION INSTRUCTIONS
-* Close all Diablo 2
-* Backup your `BH.cfg` file in the diablo 2 folder if you care for your old config
-* In Slashdiablo launcher set Maphack Version to None and Override to  ON
-* Patch/update with Launcher
-* Download `BH.cfg`, `BH-classic.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
-* Enjoy 
