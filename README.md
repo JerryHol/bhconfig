@@ -221,9 +221,10 @@ See the [ Old releases](https://github.com/youbetterdont/bhconfig/releases) page
 * Note: in BH_settings.cfg `Run Details Ping Level` is the ping level of items you want to record (default ping level 4). You can add `%notrack%`  in your config if you want to disable tracking of certain  items like charms/gems.
 * More details here about this BH version can be found in dschu012's pull requests [here](https://github.com/planqi/slashdiablo-maphack/pulls)
 
-# Installation of Everything Here
+# INSTALLATION INSTRUCTIONS
 * Close all Diablo 2
 * Backup your `BH.cfg` file in the diablo 2 folder if you care for your old config
-* In launcher set Maphack Version to None and Override to  ON
+* In Slashdiablo launcher set Maphack Version to None and Override to  ON
 * Patch/update with Launcher
-* Download `BH.cfg`, `BH-classic.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder. 
+* Download `BH.cfg`, `BH-classic.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
+* Enjoy 
