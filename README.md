@@ -12,6 +12,7 @@ This version makes it super easy to add items for your holy grail needs as well.
 * Download `BH.cfg`, `BH-classic.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
 * In game you can toggle permanently show items on ground (press L 1 time to toggle)
 * Run tracker - Track xp and drops for your character. File saved in ./data/%CHARNAME%.csv, a folder called data in your slashdiablo directory 
+* You can now also use the run tracker infographic with these run log files https://redd.it/khhgha
 * Enjoy 
 
 - Requires Danny's BETA BH>=1.9.9 for BH_Setting.cfg.
