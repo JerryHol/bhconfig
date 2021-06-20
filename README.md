@@ -24,6 +24,7 @@ This version makes it super easy to add items for your holy grail needs as well.
      - Default Planqi BH.dll 1.9.9 (official release) [here for reference](https://github.com/planqi/slashdiablo-maphack/releases)
 
 # Adding Holy Grail items to config
+* This config already includes many of the holy grail items you're looking for, but if something is missing that you specifically want to add, you can do so like this:
 * Make sure to turn ON maphack override option in SlashDiablo Launcher before editing your BH.cfg file.
 * Close D2. Simply Copy the lines you want from [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt), then in your BH.cfg file in your slashdiablo/d2 folder under the section labled "ADD HOLY GRAIL ITEMS HERE" paste them and save. 
 * If you dont see that line, you can add these items under the "UNIQUES AND SETS" part of your BH.cfg config and it should work perfectly.
