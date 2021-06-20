@@ -23,6 +23,16 @@ This version makes it super easy to add items for your holy grail needs as well.
      - [BH settings changes logged here](https://github.com/BeLikeLeBron/bhconfig/blob/master/README.md#lebrons-bh_settingscfg-compared-to-m81s-v14)
      - Default Planqi BH.dll 1.9.9 (official release) [here for reference](https://github.com/planqi/slashdiablo-maphack/releases)
 
+# Adding Holy Grail items to config
+* Make sure to turn ON maphack override option in SlashDiablo Launcher before editing your BH.cfg file.
+* Close D2. Simply Copy the lines you want from [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt), then in your BH.cfg file in your slashdiablo/d2 folder under the section labled "ADD HOLY GRAIL ITEMS HERE" paste them and save. 
+* If you dont see that line, you can add these items under the "UNIQUES AND SETS" part of your BH.cfg config and it should work perfectly.
+* BE WARNED: your ping level must match the lines TIER number to notify you of the drop
+* NOTE: in the link above for grail items, all uniques are Tier 4 items, All sets are Tier 5 items. Feel free to change them as you wish.
+* %TIER-X% REQUIRES BH 1.9.9 to work. If you dont want to use on 1.9.9, simply remove %TIER-x% from all the lines.
+
+
+
 # Config basics
 * Items are grouped into tiers based on relative worth. Worth is loosely defined as some combination of usefulness and rarity.
 * Consistent colors are used to indicate the item tiers. The map box and item name indicator (leading 0) colors always match.
