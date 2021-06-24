@@ -138,6 +138,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
 
 * Added holy grail section
   - Easily add uniques and sets using the provided sheet [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt) into this section of the config
+  - added ping all uniques/set optional lines in this section that are off by defualt (uncomment // to use) 
  
 * Uniques:
 - Tier 2
@@ -155,7 +156,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - Cleglaw's Pincers (Chain Gloves / Bracers) only if filter = 0
   - Maelstrom (Yew Wand) only if filter = 0
   - made herb t3
-  - made token tier 3
+  - made token tier 3, fixed name and description
 - Tier 6
   - Gerke's Sanctuary (shield)
   - Angelic's set rings only if filter = 0
@@ -217,9 +218,9 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - large charms added ping only if filtlvl 0 or 1 with tier 6
 - Magic Amulets
   - magic amulets show green dot if craft level = 90 or more
-  - magic amulets Ping if filter level 0, just map box if filter level 0 and 1 and tier 5
-  - magic amulets orange dot and ping for magic amulets ilvl 88+ for filter levels 0 and 1 and Tier 5
-  - magic amulets orange dot and map box but no ping ilvl 88+ for filter level 2 and tier 5
+  - magic amulets Ping if filter level 0 and tier 5
+  - magic amulets ping if filter level 1 and tier 6
+  - magic amulets ilvl 88+ ping if filter level 1 and tier 5
 
 * Rare items:
 - Tier 4
@@ -241,7 +242,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - Rare Mirrored and Myrmidon Boots
   - Rare Troll belts and Colossus Girdle
 * Other:
-  - Rejuves are R1 and R2. 
+  - Rejuves are R1 and R2. made the white dot purple. 
   - Greater potions are not hidden on filter level 1, hidden on filter level 2+ automatically.
   - Items worth good gold will have $ and prices in front
   - Progressive potions display based on clvl to show low HP, Mana, stamina, antidote, thawing, and strangle potions on all filtlvls
