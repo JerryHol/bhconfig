@@ -37,779 +37,779 @@
 
 
 //The Gnasher - 0
-ItemDisplay[!ID uni hax]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hax]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Deathspade - 1
-ItemDisplay[!ID uni axe]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni axe]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bladebone - 2
-ItemDisplay[!ID uni 2ax]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 2ax]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Skull Splitter - 3
-ItemDisplay[!ID uni mpi]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni mpi]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rakescar - 4
-ItemDisplay[!ID uni wax]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni wax]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Axe of Fechmar - 5
-ItemDisplay[!ID uni lax]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lax]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Goreshovel - 6
-ItemDisplay[!ID uni bax]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bax]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Chieftain - 7
-ItemDisplay[!ID uni btx]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni btx]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Brainhew - 8
-ItemDisplay[!ID uni gax]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni gax]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Humongous - 9
-ItemDisplay[!ID uni gix]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni gix]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Torch of Iro - 10
-ItemDisplay[!ID uni wnd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni wnd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Maelstrom - 11
-ItemDisplay[!ID uni ywn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ywn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gravenspine - 12
-ItemDisplay[!ID uni bwn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bwn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ume's Lament - 13
-ItemDisplay[!ID uni gwn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni gwn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Felloak - 14
-ItemDisplay[!ID uni clb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni clb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Knell Striker - 15
-ItemDisplay[!ID uni scp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni scp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rusthandle - 16
-ItemDisplay[!ID uni gsc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni gsc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stormeye - 17
-ItemDisplay[!ID uni wsp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni wsp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stoutnail - 18
-ItemDisplay[!ID uni spc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni spc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Crushflange - 19
-ItemDisplay[!ID uni mac]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni mac]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bloodrise - 20
-ItemDisplay[!ID uni mst]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni mst]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The General's Tan Do Li Ga - 21
-ItemDisplay[!ID uni fla]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni fla]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ironstone - 22
-ItemDisplay[!ID uni whm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni whm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bonesnap - 23
-ItemDisplay[!ID uni mau]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni mau]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Steeldriver - 24
-ItemDisplay[!ID uni gma]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni gma]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rixot's Keen - 25
-ItemDisplay[!ID uni ssd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ssd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blood Crescent - 26
-ItemDisplay[!ID uni scm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni scm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Skewer of Krintiz - 27
-ItemDisplay[!ID uni sbr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni sbr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gleamscythe - 28
-ItemDisplay[!ID uni flc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni flc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Azurewrath - 29
-ItemDisplay[!ID uni crs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni crs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Griswold's Edge - 30
-ItemDisplay[!ID uni bsd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bsd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hellplague - 31
-ItemDisplay[!ID uni lsd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lsd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Culwen's Point - 32
-ItemDisplay[!ID uni wsd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni wsd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Shadowfang - 33
-ItemDisplay[!ID uni 2hs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 2hs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Soulflay - 34
-ItemDisplay[!ID uni clm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni clm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Kinemil's Awl - 35
-ItemDisplay[!ID uni gis]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni gis]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blacktongue - 36
-ItemDisplay[!ID uni bsw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bsw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ripsaw - 37
-ItemDisplay[!ID uni flb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni flb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Patriarch - 38
-ItemDisplay[!ID uni gsd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni gsd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gull - 39
-ItemDisplay[!ID uni dgr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni dgr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Diggler - 40
-ItemDisplay[!ID uni dir]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni dir]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Jade Tan Do - 41
-ItemDisplay[!ID uni kri]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni kri]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Spectral Shard - 42
-ItemDisplay[!ID uni bld]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bld]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Dragon Chang - 43
-ItemDisplay[!ID uni spr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni spr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Razortine - 44
-ItemDisplay[!ID uni tri]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni tri]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bloodthief - 45
-ItemDisplay[!ID uni brn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni brn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Lance of Yaggai - 46
-ItemDisplay[!ID uni spt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni spt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Tannr Gorerod - 47
-ItemDisplay[!ID uni pik]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni pik]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Dimoak's Hew - 48
-ItemDisplay[!ID uni bar]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bar]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Steelgoad - 49
-ItemDisplay[!ID uni vou]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni vou]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Soul Harvest - 50
-ItemDisplay[!ID uni scy]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni scy]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Battlebranch - 51
-ItemDisplay[!ID uni pax]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni pax]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Woestave - 52
-ItemDisplay[!ID uni hal]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hal]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Grim Reaper - 53
-ItemDisplay[!ID uni wsc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni wsc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bane Ash - 54
-ItemDisplay[!ID uni sst]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni sst]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Serpent Lord - 55
-ItemDisplay[!ID uni lst]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lst]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Spire of Lazarus - 56
-ItemDisplay[!ID uni cst]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni cst]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Salamander - 57
-ItemDisplay[!ID uni bst]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bst]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Iron Jang Bong - 58
-ItemDisplay[!ID uni wst]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni wst]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Pluckeye - 59
-ItemDisplay[!ID uni sbw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni sbw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Witherstring - 60
-ItemDisplay[!ID uni hbw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hbw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Raven Claw - 61
-ItemDisplay[!ID uni lbw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lbw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rogue's Bow - 62
-ItemDisplay[!ID uni cbw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni cbw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stormstrike - 63
-ItemDisplay[!ID uni sbb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni sbb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Wizendraw - 64
-ItemDisplay[!ID uni lbb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lbb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hellclap - 65
-ItemDisplay[!ID uni swb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni swb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blastbark - 66
-ItemDisplay[!ID uni lwb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lwb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Leadcrow - 67
-ItemDisplay[!ID uni lxb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lxb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ichorsting - 68
-ItemDisplay[!ID uni mxb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni mxb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hellcast - 69
-ItemDisplay[!ID uni hxb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hxb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Doomslinger - 70
-ItemDisplay[!ID uni rxb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rxb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Biggin's Bonnet - 71
-ItemDisplay[!ID uni cap]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni cap]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Tarnhelm - 72
-ItemDisplay[!ID uni skp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni skp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Coif of Glory - 73
-ItemDisplay[!ID uni hlm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hlm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Duskdeep - 74
-ItemDisplay[!ID uni fhl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni fhl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Wormskull - 75
-ItemDisplay[!ID uni bhm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bhm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Howltusk - 76
-ItemDisplay[!ID uni ghm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ghm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Undead Crown - 77
-ItemDisplay[!ID uni crn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni crn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Face of Horror - 78
-ItemDisplay[!ID uni msk]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni msk]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Greyform - 79
-ItemDisplay[!ID uni qui]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni qui]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blinkbat's Form - 80
-ItemDisplay[!ID uni lea]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lea]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Centurion - 81
-ItemDisplay[!ID uni hla]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hla]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Twitchthroe - 82
-ItemDisplay[!ID uni stu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni stu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Darkglow - 83
-ItemDisplay[!ID uni rng]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rng]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hawkmail - 84
-ItemDisplay[!ID uni scl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni scl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Sparking Mail - 85
-ItemDisplay[!ID uni chn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni chn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Venom Ward - 86
-ItemDisplay[!ID uni brs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni brs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Iceblink - 87
-ItemDisplay[!ID uni spl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni spl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Boneflesh - 88
-ItemDisplay[!ID uni plt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni plt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rockfleece - 89
-ItemDisplay[!ID uni fld]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni fld]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rattlecage - 90
-ItemDisplay[!ID uni gth]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni gth]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Goldskin - 91
-ItemDisplay[!ID uni ful]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ful]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Silks of the Victor - 92
-ItemDisplay[!ID uni aar]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni aar]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Heavenly Garb - 93
-ItemDisplay[!ID uni ltp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ltp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Pelta Lunata - 94
-ItemDisplay[!ID uni buc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni buc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Umbral Disk - 95
-ItemDisplay[!ID uni sml]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni sml]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stormguild - 96
-ItemDisplay[!ID uni lrg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lrg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Wall of the Eyeless - 97
-ItemDisplay[!ID uni bsh]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bsh]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Swordback Hold - 98
-ItemDisplay[!ID uni spk]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni spk]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Steelclash - 99
-ItemDisplay[!ID uni kit]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni kit]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bverrit Keep - 100
-ItemDisplay[!ID uni tow]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni tow]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Ward - 101
-ItemDisplay[!ID uni gts]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni gts]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Hand of Broc - 102
-ItemDisplay[!ID uni lgl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lgl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bloodfist - 103
-ItemDisplay[!ID uni vgl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni vgl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Chance Guards - 104
-ItemDisplay[!ID uni mgl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni mgl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Magefist - 105
-ItemDisplay[!ID uni tgl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni tgl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Frostburn - 106
-ItemDisplay[!ID uni hgl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hgl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hotspur - 107
-ItemDisplay[!ID uni lbt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lbt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gorefoot - 108
-ItemDisplay[!ID uni vbt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni vbt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Treads of Cthon - 109
-ItemDisplay[!ID uni mbt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni mbt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Goblin Toe - 110
-ItemDisplay[!ID uni tbt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni tbt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Tearhaunch - 111
-ItemDisplay[!ID uni hbt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hbt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Lenymo - 112
-ItemDisplay[!ID uni lbl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni lbl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Snakecord - 113
-ItemDisplay[!ID uni vbl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni vbl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Nightsmoke - 114
-ItemDisplay[!ID uni mbl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni mbl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Goldwrap - 115
-ItemDisplay[!ID uni tbl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni tbl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bladebuckle - 116
-ItemDisplay[!ID uni hbl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hbl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Nokozan Relic - 117
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Eye of Etlich - 118
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Mahim-Oak Curio - 119
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Nagelring - 120
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Manald Heal - 121
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Stone of Jordan - 122
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Amulet of the Viper - 123
-ItemDisplay[!ID uni vip]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni vip]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Staff of Kings - 124
-ItemDisplay[!ID uni msf]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni msf]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Horadric Staff - 125
-ItemDisplay[!ID uni hst]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hst]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hell Forge Hammer - 126
-ItemDisplay[!ID uni hfh]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni hfh]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Khalim's Flail - 127
-ItemDisplay[!ID uni qf1]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni qf1]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Khalim's Will - 128
-ItemDisplay[!ID uni qf2]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni qf2]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Coldkill - 129
-ItemDisplay[!ID uni 9ha]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9ha]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Butcher's Pupil - 130
-ItemDisplay[!ID uni 9ax]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9ax]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Islestrike - 131
-ItemDisplay[!ID uni 92a]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 92a]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Pompeii's Wrath - 132
-ItemDisplay[!ID uni 9mp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9mp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Guardian Naga - 133
-ItemDisplay[!ID uni 9wa]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9wa]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Warlord's Trust - 134
-ItemDisplay[!ID uni 9la]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9la]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Spellsteel - 135
-ItemDisplay[!ID uni 9ba]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9ba]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stormrider - 136
-ItemDisplay[!ID uni 9bt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9bt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Boneslayer Blade - 137
-ItemDisplay[!ID uni 9ga]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9ga]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Minotaur - 138
-ItemDisplay[!ID uni 9gi]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9gi]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Suicide Branch - 139
-ItemDisplay[!ID uni 9wn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9wn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Carin Shard - 140
-ItemDisplay[!ID uni 9yw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9yw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Arm of King Leoric - 141
-ItemDisplay[!ID uni 9bw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9bw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blackhand Key - 142
-ItemDisplay[!ID uni 9gw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9gw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Dark Clan Crusher - 143
-ItemDisplay[!ID uni 9cl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9cl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Zakarum's Hand - 144
-ItemDisplay[!ID uni 9sc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9sc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Fetid Sprinkler - 145
-ItemDisplay[!ID uni 9qs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9qs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hand of Blessed Light - 146
-ItemDisplay[!ID uni 9ws]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9ws]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Fleshrender - 147
-ItemDisplay[!ID uni 9sp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9sp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Sureshrill Frost - 148
-ItemDisplay[!ID uni 9ma]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9ma]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Moonfall - 149
-ItemDisplay[!ID uni 9mt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9mt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Baezil's Vortex - 150
-ItemDisplay[!ID uni 9fl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9fl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Earthshaker - 151
-ItemDisplay[!ID uni 9wh]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9wh]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bloodtree Stump - 152
-ItemDisplay[!ID uni 9m9]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9m9]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Gavel of Pain - 153
-ItemDisplay[!ID uni 9gm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9gm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bloodletter - 154
-ItemDisplay[!ID uni 9ss]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9ss]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Coldsteel Eye - 155
-ItemDisplay[!ID uni 9sm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9sm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hexfire - 156
-ItemDisplay[!ID uni 9sb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9sb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blade of Ali Baba - 157
-ItemDisplay[!ID uni 9fc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9fc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ginther's Rift - 158
-ItemDisplay[!ID uni 9cr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9cr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Headstriker - 159
-ItemDisplay[!ID uni 9bs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9bs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Plague Bearer - 160
-ItemDisplay[!ID uni 9ls]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9ls]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Atlantean - 161
-ItemDisplay[!ID uni 9wd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9wd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Crainte Vomir - 162
-ItemDisplay[!ID uni 92h]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 92h]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bing Sz Wang - 163
-ItemDisplay[!ID uni 9cm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9cm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Vile Husk - 164
-ItemDisplay[!ID uni 9gs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9gs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Cloudcrack - 165
-ItemDisplay[!ID uni 9b9]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9b9]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Todesfaelle Flamme - 166
-ItemDisplay[!ID uni 9fb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9fb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Swordguard - 167
-ItemDisplay[!ID uni 9gd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9gd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Spineripper - 168
-ItemDisplay[!ID uni 9dg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9dg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Heart Carver - 169
-ItemDisplay[!ID uni 9di]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9di]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blackbog's Sharp - 170
-ItemDisplay[!ID uni 9kr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9kr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stormspike - 171
-ItemDisplay[!ID uni 9bl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9bl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Impaler - 172
-ItemDisplay[!ID uni 9sr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9sr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Kelpie Snare - 173
-ItemDisplay[!ID uni 9tr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9tr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Soulfeast Tine - 174
-ItemDisplay[!ID uni 9br]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9br]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hone Sundan - 175
-ItemDisplay[!ID uni 9st]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9st]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Spire of Honor - 176
-ItemDisplay[!ID uni 9p9]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9p9]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Meat Scraper - 177
-ItemDisplay[!ID uni 9b7]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9b7]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blackleach Blade - 178
-ItemDisplay[!ID uni 9vo]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9vo]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Athena's Wrath - 179
-ItemDisplay[!ID uni 9s8]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9s8]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Pierre Tombale Couant - 180
-ItemDisplay[!ID uni 9pa]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9pa]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Husoldal Evo - 181
-ItemDisplay[!ID uni 9h9]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9h9]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Grim's Burning Dead - 182
-ItemDisplay[!ID uni 9wc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9wc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Razorswitch - 183
-ItemDisplay[!ID uni 8ss]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8ss]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ribcracker - 184
-ItemDisplay[!ID uni 8ls]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8ls]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Chromatic Ire - 185
-ItemDisplay[!ID uni 8cs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8cs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Warpspear - 186
-ItemDisplay[!ID uni 8bs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8bs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Skull Collector - 187
-ItemDisplay[!ID uni 8ws]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8ws]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Skystrike - 188
-ItemDisplay[!ID uni 8sb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8sb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Riphook - 189
-ItemDisplay[!ID uni 8hb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8hb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Kuko Shakaku - 190
-ItemDisplay[!ID uni 8lb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8lb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Endlesshail - 191
-ItemDisplay[!ID uni 8cb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8cb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Witchwild String - 192
-ItemDisplay[!ID uni 8s8]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8s8]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Cliffkiller - 193
-ItemDisplay[!ID uni 8l8]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8l8]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Magewrath - 194
-ItemDisplay[!ID uni 8sw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8sw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Goldstrike Arch - 195
-ItemDisplay[!ID uni 8lw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8lw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Langer Briser - 196
-ItemDisplay[!ID uni 8lx]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8lx]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Pus Spitter - 197
-ItemDisplay[!ID uni 8mx]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8mx]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Buriza-Do Kyanon - 198
-ItemDisplay[!ID uni 8hx]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8hx]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Demon Machine - 199
-ItemDisplay[!ID uni 8rx]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 8rx]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Peasant Crown - 201
-ItemDisplay[!ID uni xap]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xap]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rockstopper - 202
-ItemDisplay[!ID uni xkp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xkp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stealskull - 203
-ItemDisplay[!ID uni xlm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xlm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Darksight Helm - 204
-ItemDisplay[!ID uni xhl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xhl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Valkyrie Wing - 205
-ItemDisplay[!ID uni xhm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xhm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Crown of Thieves - 206
-ItemDisplay[!ID uni xrn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xrn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blackhorn's Face - 207
-ItemDisplay[!ID uni xsk]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xsk]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Vampire Gaze - 208
-ItemDisplay[!ID uni xh9]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xh9]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Spirit Shroud - 209
-ItemDisplay[!ID uni xui]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xui]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Skin of the Vipermagi - 210
-ItemDisplay[!ID uni xea]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xea]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Skin of the Flayed One - 211
-ItemDisplay[!ID uni xla]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xla]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Iron Pelt - 212
-ItemDisplay[!ID uni xtu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xtu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Spirit Forge - 213
-ItemDisplay[!ID uni xng]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xng]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Crow Caw - 214
-ItemDisplay[!ID uni xcl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xcl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Shaftstop - 215
-ItemDisplay[!ID uni xhn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xhn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Duriel's Shell - 216
-ItemDisplay[!ID uni xrs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xrs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Skullder's Ire - 217
-ItemDisplay[!ID uni xpl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xpl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Guardian Angel - 218
-ItemDisplay[!ID uni xlt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xlt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Toothrow - 219
-ItemDisplay[!ID uni xld]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xld]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Atma's Wail - 220
-ItemDisplay[!ID uni xth]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xth]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Black Hades - 221
-ItemDisplay[!ID uni xul]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xul]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Corpsemourn - 222
-ItemDisplay[!ID uni xar]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xar]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Que-Hegan's Wisdom - 223
-ItemDisplay[!ID uni xtp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xtp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Visceratuant - 224
-ItemDisplay[!ID uni xuc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xuc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Moser's Blessed Circle - 225
-ItemDisplay[!ID uni xml]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xml]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stormchaser - 226
-ItemDisplay[!ID uni xrg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xrg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Tiamat's Rebuke - 227
-ItemDisplay[!ID uni xit]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xit]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gerke's Sanctuary - 228
-ItemDisplay[!ID uni xow]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xow]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Radament's Sphere - 229
-ItemDisplay[!ID uni xts]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xts]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Lidless Wall - 230
-ItemDisplay[!ID uni xsh]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xsh]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Lance Guard - 231
-ItemDisplay[!ID uni xpk]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xpk]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Venom Grip - 232
-ItemDisplay[!ID uni xlg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xlg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gravepalm - 233
-ItemDisplay[!ID uni xvg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xvg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ghoulhide - 234
-ItemDisplay[!ID uni xmg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xmg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Lava Gout - 235
-ItemDisplay[!ID uni xtg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xtg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hellmouth - 236
-ItemDisplay[!ID uni xhg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xhg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Infernostride - 237
-ItemDisplay[!ID uni xlb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xlb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Waterwalk - 238
-ItemDisplay[!ID uni xvb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xvb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Silkweave - 239
-ItemDisplay[!ID uni xmb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xmb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //War Traveler - 240
-ItemDisplay[!ID uni xtb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xtb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gore Rider - 241
-ItemDisplay[!ID uni xhb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni xhb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //String of Ears - 242
-ItemDisplay[!ID uni zlb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni zlb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Razortail - 243
-ItemDisplay[!ID uni zvb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni zvb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gloom's Trap - 244
-ItemDisplay[!ID uni zmb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni zmb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Snowclash - 245
-ItemDisplay[!ID uni ztb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ztb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Thundergod's Vigor - 246
-ItemDisplay[!ID uni zhb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni zhb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Harlequin Crest - 247
-ItemDisplay[!ID uni uap]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uap]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Veil of Steel - 248
-ItemDisplay[!ID uni uhm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uhm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Gladiator's Bane - 249
-ItemDisplay[!ID uni utu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni utu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Arkaine's Valor - 250
-ItemDisplay[!ID uni upl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni upl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blackoak Shield - 251
-ItemDisplay[!ID uni uml]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uml]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stormshield - 252
-ItemDisplay[!ID uni uit]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uit]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hellslayer - 253
-ItemDisplay[!ID uni 7bt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7bt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Messerschmidt's Reaver - 254
-ItemDisplay[!ID uni 7ga]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7ga]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Baranar's Star - 255
-ItemDisplay[!ID uni 7mt]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7mt]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Schaefer's Hammer - 256
-ItemDisplay[!ID uni 7wh]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7wh]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Cranium Basher - 257
-ItemDisplay[!ID uni 7gm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7gm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Lightsabre - 258
-ItemDisplay[!ID uni 7cr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7cr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Doombringer - 259
-ItemDisplay[!ID uni 7b7]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7b7]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Grandfather - 260
-ItemDisplay[!ID uni 7gd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7gd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Wizardspike - 261
-ItemDisplay[!ID uni 7dg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7dg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Constricting Ring - 262
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stormspire - 263
-ItemDisplay[!ID uni 7wc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7wc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Eaglehorn - 264
-ItemDisplay[!ID uni 6l7]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 6l7]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Windforce - 265
-ItemDisplay[!ID uni 6lw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 6lw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bul-Kathos' Wedding Band - 267
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Cat's Eye - 268
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Rising Sun - 269
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Crescent Moon - 270
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Mara's Kaleidoscope - 271
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Atma's Scarab - 272
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Dwarf Star - 273
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Raven Frost - 274
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Highlord's Wrath - 275
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Saracen's Chance - 276
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Arreat's Face - 278
-ItemDisplay[!ID uni baa]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni baa]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Homunculus - 279
-ItemDisplay[!ID uni nea]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni nea]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Titan's Revenge - 280
-ItemDisplay[!ID uni ama]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ama]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Lycander's Aim - 281
-ItemDisplay[!ID uni am7]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni am7]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Lycander's Flank - 282
-ItemDisplay[!ID uni am9]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni am9]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Oculus - 283
-ItemDisplay[!ID uni oba]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni oba]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Herald of Zakarum - 284
-ItemDisplay[!ID uni pa9]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni pa9]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bartuc's Cut-Throat - 285
-ItemDisplay[!ID uni 9tw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9tw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Jalal's Mane - 286
-ItemDisplay[!ID uni dra]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni dra]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Scalper - 287
-ItemDisplay[!ID uni 9ta]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9ta]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bloodmoon - 288
-ItemDisplay[!ID uni 7sb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7sb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Djinn Slayer - 289
-ItemDisplay[!ID uni 7sm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7sm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Deathbit - 290
-ItemDisplay[!ID uni 9tk]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 9tk]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Warshrike - 291
-ItemDisplay[!ID uni 7bk]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7bk]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gut Siphon - 292
-ItemDisplay[!ID uni 6rx]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 6rx]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Razor's Edge - 293
-ItemDisplay[!ID uni 7ha]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7ha]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Demon Limb - 295
-ItemDisplay[!ID uni 7sp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7sp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Steel Shade - 296
-ItemDisplay[!ID uni ulm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ulm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Tomb Reaver - 297
-ItemDisplay[!ID uni 7pa]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7pa]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Death's Web - 298
-ItemDisplay[!ID uni 7gw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7gw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Nature's Peace - 299
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Azurewrath - 300
-ItemDisplay[!ID uni 7cr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7cr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Seraph's Hymn - 301
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Fleshripper - 303
-ItemDisplay[!ID uni 7kr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7kr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Horizon's Tornado - 305
-ItemDisplay[!ID uni 7fl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7fl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stone Crusher - 306
-ItemDisplay[!ID uni 7wh]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7wh]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Jade Talon - 307
-ItemDisplay[!ID uni 7wb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7wb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Shadow Dancer - 308
-ItemDisplay[!ID uni uhb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uhb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Cerebus' Bite - 309
-ItemDisplay[!ID uni drb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni drb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Tyrael's Might - 310
-ItemDisplay[!ID uni uar]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uar]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Soul Drainer - 311
-ItemDisplay[!ID uni umg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni umg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rune Master - 312
-ItemDisplay[!ID uni 72a]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 72a]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Death Cleaver - 313
-ItemDisplay[!ID uni 7wa]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7wa]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Executioner's Justice - 314
-ItemDisplay[!ID uni 7gi]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7gi]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stoneraven - 315
-ItemDisplay[!ID uni amd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Leviathan - 316
-ItemDisplay[!ID uni uld]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uld]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Wisp Projector - 318
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gargoyle's Bite - 319
-ItemDisplay[!ID uni 7ts]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7ts]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Lacerator - 320
-ItemDisplay[!ID uni 7b8]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7b8]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Mang Song's Lesson - 321
-ItemDisplay[!ID uni 6ws]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 6ws]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Viperfork - 322
-ItemDisplay[!ID uni 7br]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7br]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ethereal Edge - 323
-ItemDisplay[!ID uni 7ba]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7ba]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Demonhorn's Edge - 324
-ItemDisplay[!ID uni bad]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bad]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Reaper's Toll - 325
-ItemDisplay[!ID uni 7s8]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7s8]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Spirit Keeper - 326
-ItemDisplay[!ID uni drd]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni drd]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hellrack - 327
-ItemDisplay[!ID uni 6hx]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 6hx]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Alma Negra - 328
-ItemDisplay[!ID uni pac]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni pac]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Darkforce Spawn - 329
-ItemDisplay[!ID uni nef]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni nef]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Widowmaker - 330
-ItemDisplay[!ID uni 6sw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 6sw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Blood Raven's Charge - 331
-ItemDisplay[!ID uni amb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ghostflame - 332
-ItemDisplay[!ID uni 7bl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7bl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Shadow Killer - 333
-ItemDisplay[!ID uni 7cs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7cs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gimmershred - 334
-ItemDisplay[!ID uni 7ta]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7ta]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Griffon's Eye - 335
-ItemDisplay[!ID uni ci3]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ci3]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Windhammer - 336
-ItemDisplay[!ID uni 7m7]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7m7]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Thunderstroke - 337
-ItemDisplay[!ID uni amf]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amf]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Demon's Arch - 339
-ItemDisplay[!ID uni 7s7]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7s7]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Boneflame - 340
-ItemDisplay[!ID uni nee]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni nee]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Steel Pillar - 341
-ItemDisplay[!ID uni 7p7]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7p7]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Nightwing's Veil - 342
-ItemDisplay[!ID uni uhm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uhm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Crown of Ages - 343
-ItemDisplay[!ID uni urn]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni urn]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Andariel's Visage - 344
-ItemDisplay[!ID uni usk]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni usk]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Dragonscale - 346
-ItemDisplay[!ID uni pae]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni pae]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Steel Carapace - 347
-ItemDisplay[!ID uni uul]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uul]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Medusa's Gaze - 348
-ItemDisplay[!ID uni uow]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uow]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ravenlore - 349
-ItemDisplay[!ID uni dre]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni dre]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Boneshade - 350
-ItemDisplay[!ID uni 7bw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7bw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Flamebellow - 352
-ItemDisplay[!ID uni 7gs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7gs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Death's Fathom - 353
-ItemDisplay[!ID uni obf]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni obf]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Wolfhowl - 354
-ItemDisplay[!ID uni bac]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bac]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Spirit Ward - 355
-ItemDisplay[!ID uni uts]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uts]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Kira's Guardian - 356
-ItemDisplay[!ID uni ci2]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ci2]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ormus' Robes - 357
-ItemDisplay[!ID uni uui]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uui]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Gheed's Fortune - 358
-ItemDisplay[!ID uni cm3]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni cm3]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Stormlash - 359
-ItemDisplay[!ID uni 7fl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7fl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Halaberd's Reign - 360
-ItemDisplay[!ID uni bae]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni bae]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Spike Thorn - 362
-ItemDisplay[!ID uni upk]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni upk]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Dracul's Grasp - 363
-ItemDisplay[!ID uni uvg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uvg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Frostwind - 364
-ItemDisplay[!ID uni 7ls]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7ls]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Templar's Might - 365
-ItemDisplay[!ID uni uar]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uar]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Eschuta's Temper - 366
-ItemDisplay[!ID uni obc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni obc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Firelizard's Talons - 367
-ItemDisplay[!ID uni 7lw]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7lw]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Sandstorm Trek - 368
-ItemDisplay[!ID uni uvb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uvb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Marrowwalk - 369
-ItemDisplay[!ID uni umb]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni umb]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Heaven's Light - 370
-ItemDisplay[!ID uni 7sc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7sc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Arachnid Mesh - 372
-ItemDisplay[!ID uni ulc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ulc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Nosferatu's Coil - 373
-ItemDisplay[!ID uni uvc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uvc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Metalgrid - 374
-ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni amu]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Verdungo's Hearty Cord - 375
-ItemDisplay[!ID uni umc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni umc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Carrion Wind - 377
-ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni rin]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Giant Skull - 378
-ItemDisplay[!ID uni uh9]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uh9]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Astreon's Iron Ward - 379
-ItemDisplay[!ID uni 7ws]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7ws]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Annihilus - 380
-ItemDisplay[!ID uni cm1]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni cm1]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Arioc's Needle - 381
-ItemDisplay[!ID uni 7sr]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7sr]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Cranebeak - 382
-ItemDisplay[!ID uni 7mp]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7mp]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Nord's Tenderizer - 383
-ItemDisplay[!ID uni 7cl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7cl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Earth Shifter - 384
-ItemDisplay[!ID uni 7gm]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7gm]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Wraith Flight - 385
-ItemDisplay[!ID uni 7gl]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7gl]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Bonehew - 386
-ItemDisplay[!ID uni 7o7]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7o7]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Ondal's Wisdom - 387
-ItemDisplay[!ID uni 6cs]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 6cs]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //The Redeemer - 388
-ItemDisplay[!ID uni 7sc]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni 7sc]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Head Hunter's Glory - 389
-ItemDisplay[!ID uni ush]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni ush]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Steelrend - 390
-ItemDisplay[!ID uni uhg]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni uhg]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rainbow Facet - 391
-ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rainbow Facet - 392
-ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rainbow Facet - 393
-ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rainbow Facet - 394
-ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rainbow Facet - 395
-ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rainbow Facet - 396
-ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rainbow Facet - 397
-ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Rainbow Facet - 398
-ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni jew]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 //Hellfire Torch - 399
-ItemDisplay[!ID uni cm2]: %PURPLE%Grail o %GOLD%%MAP% %NAME%%TIER-4%
+ItemDisplay[!ID uni cm2]: %PURPLE%Grail o %GOLD%T4%MAP% %NAME%%TIER-4%
 
 
 //////////////////////// 
