@@ -24,13 +24,15 @@ This version makes it super easy to add items for your holy grail needs as well.
      - Default Planqi BH.dll 1.9.9 (official release) [here for reference](https://github.com/planqi/slashdiablo-maphack/releases)
 
 # Adding Holy Grail items to config
-* This config already includes many of the holy grail items you're looking for, but if something is missing that you specifically want to add, you can do so like this:
-* Make sure to turn ON maphack override option in SlashDiablo Launcher before editing your BH.cfg file.
-* Close D2. Simply Copy the lines you want from [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt), then in your BH.cfg file in your slashdiablo/d2 folder under the section labled "ADD HOLY GRAIL ITEMS HERE" paste them and save. 
-* If you dont see that line, you can add these items under the "UNIQUES AND SETS" part of your BH.cfg config and it should work perfectly.
-* BE WARNED: your ping level must match the lines TIER number to notify you of the drop
-* NOTE: in the link above for grail items, all uniques are Tier 4 items, All sets are Tier 5 items. Feel free to change them as you wish.
-* %TIER-X% REQUIRES BH 1.9.9 to work. If you dont want to use on 1.9.9, simply remove %TIER-x% from all the lines.
+* Our configs already include many of the holy grail items you're looking for, but if you want to add All missing grailers you have a couple of options:
+* Automated method:
+     * -1. Download and install the [slashdiablo chrome extensions](https://chrome.google.com/webstore/detail/slash-diablo-tools/hfbigecinjgkbmdldhgogmdjfblpkagp) via google chrome, if you have it installed already, make sure it's updated
+     * -2. Restart the browser, then navigate to your grail.slashdiablo.net account, There will be a button on the top right for "BH Filter Missing Items". click it. It will copy all lines for your missing items list for that account.
+     * -3. Make sure to turn on maphack override option in slashdiablo launcher before editing your bh.cfg file. Close D2 and any errors. Then in your BH.cfg file in your slashdiablo/d2 folder under the section labeled "ADD HOLY GRAIL ITEMS HERE" paste them and save. If you don't see that line, you can add these items directly under the "UNIQUES AND SETS" part of your BH.cfg config and it should work perfectly. You can do this periodically and replace these lines in your config as you find items instead of refreshing it manually. Save it. You're done!
+* If you want to do this manually or want to add something specific:
+     *  Go [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt) for a list of all uniques and set lines that are ready to be used. All uniques are Tier 4 items there, All sets are Tier 5 items. Feel free to change them as you wish. Simply copy the lines you want from that link then follow step 3 above. 
+     *  BE WARNED: your ping level must match the lines TIER number in the in-game BH settings to notify you of the drop
+     *  %TIER-X% REQUIRES BH 1.9.9 to work. If you dont want to use on 1.9.9, simply remove %TIER-x% from all the lines.
 
 
 
@@ -90,7 +92,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
 # LeBron's BH.cfg Compared to m81's last config v2.5.9 (slashdiablo default)
 * Differentiated a bit more between filter level 1 and 2 on some items, mostly to add a gap for the first week or two after a ladder reset until endgame filter levels 2 and 3.
 * Added pings for some missing items
-* Added ability to easily expand with holy grail items to utilize the new slashdiablo Holy Grail system with [all uniques and sets listed here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt)
+* Added ability to easily expand with holy grail items to utilize the new slashdiablo Holy Grail system with the slash chrome extension or [all uniques and sets listed here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt)
 * Added more info and links to help palyers customize and achieve what they want
 * Most old lines maintanined if users feel like using the older ones instead.
 
@@ -107,10 +109,11 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - Ko and fal get pinged if filtlvl 0 or 1 and tier 5
   - Ko and fal get dots if filtlvl over 2 and tier 5
   - added sol lines to behave like rals for ring crafting (uncomment // to use)
-  - spirit rune sets get small green dots with filtlvl 0 and 1 and tier 5
-  - insight runes get small red dots with filtlvl 0 and 1 and tier 5
+  - spirit rune sets get small green dots with filtlvl 0 and 1 and tier 6
+  - insight runes get small red dots with filtlvl 0 and 1 and tier 6
   - orts for reparing get small gray dot if filtlvl 0 or 1 and tier 4
   - low runes get pinged if fitlvl 0 and tier 6
+  - Map lines added for tier 1 and 2 runes
 
 * Tier 6 (ladder reset stuff)
   -demonhide and sharkskin belts ping on early levels
@@ -137,10 +140,12 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - added ilvl and price display lines for all items (uncomment // to use)
 
 * Added holy grail section
-  - Easily add uniques and sets using the provided sheet [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt) into this section of the config
+  - Easily add uniques and sets using the provided area and instructions. Use either the [slashdiablo chrome extensions](https://chrome.google.com/webstore/detail/slash-diablo-tools/hfbigecinjgkbmdldhgogmdjfblpkagp) or the list [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt) to add items into this section of the config
   - added ping all uniques/set optional lines in this section that are off by defualt (uncomment // to use) 
  
 * Uniques:
+- Tier 1
+  - Added Map lines for tier 1 and 2 uniques
 - Tier 2
   - Added fireball and frost nova Ormus's here along with the other good Ormus's
 - Tier 3
@@ -155,8 +160,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - Medusa's Gaze (Shield)
   - Cleglaw's Pincers (Chain Gloves / Bracers) only if filter = 0
   - Maelstrom (Yew Wand) only if filter = 0
-  - made herb t3
-  - made token tier 3, fixed name and description
+  - Eth Gimmershred (flying axe)
 - Tier 6
   - Gerke's Sanctuary (shield)
   - Angelic's set rings only if filter = 0
@@ -207,7 +211,12 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - 3os mage plates added
   - imbuable diadems moved to tier 6 (previously tier 5)
 
+* Misc:
+- Essences and uber organs added
+
 * Magic items:
+- Tier 3
+  - Grand charms from Baal, Diablo, Nihlathak for potential 45 lifers
 - Tier 4
   - Grand charms show blue border with gray dot
   - Made jewels a seperate lines
@@ -224,16 +233,17 @@ This is for the slashdiablo default reference files. See the [Old releases](http
 
 * Rare items:
 - Tier 4
-  - rare amulets now tier 5
+  - rare amulets now tier 5 except for potential +2 class skill amulers from Baal, Diablo, and Nihlathak.
   - rare amulets ping only if filter level 0 or 1. yellow border with black dot on map
   - rare amulets filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
 - Tier 5
   - rare jewels ping only if filter level 0 or 1. yellow border with black dot on map
   - rare jewels filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
-  - rare boots (not Mirrored or Myrmidon - too high str req) ping only if filter level 0 or 1. yellow border with black dot on map
-  - rare boots (not Mirrored or Myrmidon - too high str req) filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
+  - rare boots (not Myrmidon - too high str req) ping only if filter level 0 or 1. yellow border with black dot on map
+  - rare boots (not Myrmidon - too high str req) filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
   - rare gloves (not Ogre Gauntlets - too high str req) ping only if filter level 0 or 1. yellow border with black dot on map
   - rare gloves (not Ogre Gauntlets - too high str req) filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
+  - Added a rare weapons and eth weapons of interest section (remove // to use these lines)
 - Tier 6
   - added rare belts under 150 str req with 4 box rows ping only if filter level 0 or 1. yellow border with black dot on map
   - added rare belts under 150 str req with 4 box rows filter level 2+ show map box but no ping tier 6. yellow border with black dot on map
@@ -254,6 +264,6 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - unhide greater mana and health potions if filter level over 0 (M4 and HP4)
   - fixed description for greater and super mana and health potions
   - added item description for  2os exceptional Spears or Polearms - Strength runeword
-  - added tp scrolls, id scrolls, and keys to be hidden if filtlvl=3
+  - added tp scrolls, id scrolls, and keys to be hidden if filtlvl=3 (remove // to use these lines)
   - Certain useless Rare weapons hidden on filtlvl=2 (non eth only)
   - potion filter sectioned and clarrified for customizability
