@@ -1,12 +1,21 @@
-// All sets and uniques with items with pings for grail. Requires BH 1.9.9 to use!
-
+// All sets and uniques with items with notifications for grail. Requires BH 1.9.9 to use!
 
 //  INSTRUCTIONS
-//All uniques are Tier 4 items, All sets are Tier 5 items. Feel free to change them as you wish.
-//MAKE SURE TO TURN ON Maphack OVERRIDE OPTION IN SLASHDIABLO LAUNCHER BEFORE EDITING YOUR BH.CFG FILE
-//Close D2. Simply Copy the lines you want from here, then in your BH.cfg file in your slashdiablo/d2 folder under the section labled "ADD HOLY GRAIL ITEMS HERE" paste them and save. 
-//If you dont see that line, you can add these items under the "UNIQUES AND SETS" part of your BH.cfg config and it should work perfectly.
-//BE WARNED: your ping level must match the lines TIER number to notify you of the drop
+//**How to add grail items to bh maphack config for notifications:**
+//Our configs already include many of the holy grail items you're looking for, but if you want to add All missing grailers you have a couple of options:
+//1. Download and install the slashdiablo chrome extensions via google chrome, if you have it installed already, make sure it's updated: https://chrome.google.com/webstore/detail/slash-diablo-tools/hfbigecinjgkbmdldhgogmdjfblpkagp
+//2. Restart the browser, then navigate to your grail.slashdiablo.net account, There will be a button on the top right for "BH Filter Missing Items". click it. 
+//   It will copy all lines for your missing items list for that account.
+//3. Make sure to turn on maphack override option in slashdiablo launcher before editing your bh.cfg file. Close D2 and any errors. 
+//   Then in your BH.cfg file in your slashdiablo/d2 folder under the section labeled "ADD HOLY GRAIL ITEMS HERE" paste them and save. 
+//   If you don't see that line, you can add these items directly under the "UNIQUES AND SETS" part of your BH.cfg config and it should work perfectly. 
+//   You can do this periodically and replace these lines in your config as you find items instead of refreshing it manually. Save it. You're done!
+//
+
+//If you want to do this manually or want to add something specific Use the below list of all uniques and set lines that are ready to be used
+//All uniques are Tier 4 items here, All sets are Tier 5 items. Feel free to change them as you wish. Simply copy the lines you want from here then follow step 3 above. 
+//BE WARNED: your ping level must match the lines TIER number in the in-game BH settings to notify you of the drop
+
 //%TIER-X% REQUIRES BH 1.9.9 to work. If you dont want to use on 1.9.9, simply remove %TIER-x% from all the lines.
 
 // Link to Download the latest config: https://github.com/BeLikeLeBron/bhconfig/releases/latest
