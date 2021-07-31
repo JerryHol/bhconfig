@@ -116,7 +116,8 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - Map lines added for tier 1 and 2 runes
 
 * Tier 6 (ladder reset stuff)
-  -demonhide and sharkskin belts ping on early levels
+  - demonhide and sharkskin belts ping on early levels
+  - crafted caster belt bases ping up to level 80 for filtlvl 0 and 1
 
 * Shoppables colored (and get pinged if dropped early in leveling process with tier 6) all these are shoppable from acts 1 and 2 normal:
   - +2-3 charged bolt staff
