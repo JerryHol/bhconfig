@@ -114,12 +114,14 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - orts for reparing get small gray dot if filtlvl 0 or 1 and tier 4
   - low runes get pinged if fitlvl 0 and tier 6
   - Map lines added for tier 1 and 2 runes
+  - added description for gul and Herb for dclone spawn instructions (slash specific)
 
 * Tier 6 (ladder reset stuff)
   - demonhide and sharkskin belts ping on early levels
   - crafted caster belt bases ping up to level 80 for filtlvl 0 and 1
 
 * Shoppables colored (and get pinged if dropped early in leveling process with tier 6) all these are shoppable from acts 1 and 2 normal:
+  - Fixed color on all shoppable items so it's colorblind friendly with stars
   - +2-3 charged bolt staff
   - fcr wands, staves, and scepters
   - 3os large and kite shields
@@ -175,6 +177,8 @@ This is for the slashdiablo default reference files. See the [Old releases](http
 * Socketables:
 - Tier 3
   - 3 chant, 1+ FM orb capable of 3os (plague) -Slash Specific
+  - made 15ed Mage plates t3 for enigma bases (previously t4)
+  - added lines for assassin weapon bases with 3LS + 1-3 DS (plague) -Slash Specific
 - Tier 4
   - changed map dots from gold to white dot with gold border for all Tier 4 socketables so it's less confusing with uniques
   - top 3 socket elite armors
@@ -210,12 +214,16 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - 2os exceptional spears/polearms for strength runeword when char lvl is under 60
   - masks that get 3 sockets from larzuk when char lvl is under 45
   - 3os mage plates added
+  - 3os elite armor bases with lower defenses added here
   - imbuable diadems moved to tier 6 (previously tier 5)
 
 * Misc:
 - Essences and uber organs added
+- whitelisted some 3 socket armor bases
+- whitelisted 6 socket crystal swords
 
-* Magic items:
+* Magic items: 
+- Made boxes on map more visibly appealing (you can tell what dropped by just looking at the different box style)
 - Tier 3
   - Grand charms from Baal, Diablo, Nihlathak for potential 45 lifers
 - Tier 4
@@ -233,27 +241,22 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - magic amulets ilvl 88+ ping if filter level 1 and tier 5
 
 * Rare items:
+- Made boxes on map more visibly appealing (you can tell what dropped by just looking at the different box style)
 - Tier 4
-  - rare amulets now tier 5 except for potential +2 class skill amulers from Baal, Diablo, and Nihlathak.
-  - rare amulets ping only if filter level 0 or 1. yellow border with black dot on map
-  - rare amulets filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
+  - rare amulets are still t4 except for potential +2 class skill amulers from Baal, Diablo, and Nihlathak (those are t3).
 - Tier 5
-  - rare jewels ping only if filter level 0 or 1. yellow border with black dot on map
-  - rare jewels filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
-  - rare boots (not Myrmidon - too high str req) ping only if filter level 0 or 1. yellow border with black dot on map
-  - rare boots (not Myrmidon - too high str req) filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
-  - rare gloves (not Ogre Gauntlets - too high str req) ping only if filter level 0 or 1. yellow border with black dot on map
-  - rare gloves (not Ogre Gauntlets - too high str req) filter level 2+ show map box but no ping tier 5. yellow border with black dot on map
+  - rare jewels are now t5 (previously tier 4)
+  - rare boots (not Myrmidon - too high str req) ping t5
+  - rare gloves (not Ogre Gauntlets - too high str req) ping t5
   - Added a rare weapons and eth weapons of interest section (remove // to use these lines)
 - Tier 6
-  - added rare belts under 150 str req with 4 box rows ping only if filter level 0 or 1. yellow border with black dot on map
-  - added rare belts under 150 str req with 4 box rows filter level 2+ show map box but no ping tier 6. yellow border with black dot on map
+  - added rare belts under 150 str req with 4 box rows ping t6.
 - Whitelist
   - Rare Ogre Gauntlets
-  - Rare Mirrored and Myrmidon Boots
+  - Rare Myrmidon Boots
   - Rare Troll belts and Colossus Girdle
 * Other:
-  - Rejuves are R1 and R2. made the white dot purple. 
+  - Rejuves are +R1 and +R2+. made the white dot purple. 
   - Greater potions are not hidden on filter level 1, hidden on filter level 2+ automatically.
   - Items worth good gold will have $ and prices in front
   - Progressive potions display based on clvl to show low HP, Mana, stamina, antidote, thawing, and strangle potions on all filtlvls
