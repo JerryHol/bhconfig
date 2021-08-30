@@ -1,22 +1,22 @@
 # About this config
 
 These files were designed for SlashDiablo but can be used elsewhere since Slash is vanilla D2 with very few changes. 
-These are close to M81's (Slashdiablo default) BH maphack config tier system with quite a bit of changes to add QoL for low levels + some endgame things. Lots of changes are all logged in the link below. The settings file also utilizes the beta features added by DannyIsGreat like showing all items on the ground without holding a button and tracking your runs for you.
+These are close to M81's (SlashDiablo default) BH maphack config tier system with quite a bit of changes to add QoL for low levels + some endgame things. Lots of changes are all logged in the link below. The settings file also utilizes the beta features added by DannyIsGreat like showing all items on the ground without holding a button and tracking your runs for you.
 This version makes it super easy to add items for your holy grail needs as well. BH-classic is a config specifically for in classic D2 mode.
 
 # INSTALLATION INSTRUCTIONS
 * Close all Diablo 2
 * Backup your `BH.cfg` file in the diablo 2 folder if you care for your old config
-* In Slashdiablo launcher set Maphack Version to None and Override to  ON
+* In SlashDiablo launcher set Maphack Version to None and Override to  ON
 * Patch/update with Launcher
 * Download `BH.cfg`, `BH-classic.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
 * In game you can toggle permanently show items on ground (press L 1 time to toggle)
-* Run tracker - Track xp and drops for your character. File saved in ./data/%CHARNAME%.csv, a folder called data in your slashdiablo directory 
+* Run tracker - Track xp and drops for your character. File saved in ./data/%CHARNAME%.csv, a folder called data in your slashDiablo directory 
 * You can now also use the run tracker infographic with these run log files https://redd.it/khhgha
 * Enjoy 
 
 - Requires Danny's BETA BH>=1.9.9 for BH_Setting.cfg.
-- BH.cfg and BH-classic.cfg Require BH>=1.9.9 (planqi 1.9.9 or Danny’s beta)
+- BH.cfg and BH-classic.cfg Require BH>=1.9.9 (Planqi 1.9.9 or Danny’s beta)
 - dschu012's (Danny's) beta BH.dll attached below. USE THIS ONE. More info on it [here](https://github.com/BeLikeLeBron/bhconfig#dschu012s-dannys-bhcfg-beta-features)
      - [BH.cfg Changes logged here](https://github.com/BeLikeLeBron/bhconfig#lebrons-bhcfg-compared-to-m81s-last-config-v259-slashdiablo-default)
      - [BH-classic.cfg features logged here](https://github.com/BeLikeLeBron/bhconfig#lebrons-bh-classiccfg)
@@ -26,13 +26,13 @@ This version makes it super easy to add items for your holy grail needs as well.
 # Adding Holy Grail items to config
 * Our configs already include many of the holy grail items you're looking for, but if you want to add All missing grailers you have a couple of options:
 * Automated method:
-     * -1. Download and install the [slashdiablo chrome extensions](https://chrome.google.com/webstore/detail/slash-diablo-tools/hfbigecinjgkbmdldhgogmdjfblpkagp) via google chrome, if you have it installed already, make sure it's updated
+     * -1. Download and install the [slashDiablo chrome extensions](https://chrome.google.com/webstore/detail/slash-diablo-tools/hfbigecinjgkbmdldhgogmdjfblpkagp) via google chrome, if you have it installed already, make sure it's updated
      * -2. Restart the browser, then navigate to your grail.slashdiablo.net account, There will be a button on the top right for "BH Filter Missing Items". click it. It will copy all lines for your missing items list for that account.
-     * -3. Make sure to turn on maphack override option in slashdiablo launcher before editing your bh.cfg file. Close D2 and any errors. Then in your BH.cfg file in your slashdiablo/d2 folder under the section labeled "ADD HOLY GRAIL ITEMS HERE" paste them and save. If you don't see that line, you can add these items directly under the "UNIQUES AND SETS" part of your BH.cfg config and it should work perfectly. You can do this periodically and replace these lines in your config as you find items instead of refreshing it manually. Save it. You're done!
+     * -3. Make sure to turn on maphack override option in SlashDiablo launcher before editing your bh.cfg file. Close D2 and any errors. Then in your BH.cfg file in your SlashDiablo/d2 folder under the section labeled "ADD HOLY GRAIL ITEMS HERE" paste them and save. If you don't see that line, you can add these items directly under the "UNIQUES AND SETS" part of your BH.cfg config and it should work perfectly. You can do this periodically and replace these lines in your config as you find items instead of refreshing it manually. Save it. You're done!
 * If you want to do this manually or want to add something specific:
      *  Go [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt) for a list of all uniques and set lines that are ready to be used. All uniques are Tier 4 items there, All sets are Tier 5 items. Feel free to change them as you wish. Simply copy the lines you want from that link then follow step 3 above. 
      *  BE WARNED: your ping level must match the lines TIER number in the in-game BH settings to notify you of the drop
-     *  %TIER-X% REQUIRES BH 1.9.9 to work. If you dont want to use on 1.9.9, simply remove %TIER-x% from all the lines.
+     *  %TIER-X% REQUIRES BH 1.9.9 to work. If you don't want to use on 1.9.9, simply remove %TIER-x% from all the lines.
 
 
 
@@ -56,11 +56,11 @@ This version makes it super easy to add items for your holy grail needs as well.
 * Color palette and item information can be found either in [here](https://github.com/planqi/slashdiablo-maphack/wiki) or [here](https://github.com/underbent/slashdiablo-maphack/wiki)
 
 # M81's Releases
-This is for the slashdiablo default reference files. See the [Old releases](https://github.com/youbetterdont/bhconfig/releases) page for the change logs.
+This is for the SlashDiablo default reference files. See the [Old releases](https://github.com/youbetterdont/bhconfig/releases) page for the change logs.
 
 
 #  dschu012's (Danny's) BH.cfg BETA features
-* Comes with everything on Planqi's 1.9.9(default with Slashdiablo launcher) but with some new features on top such as:
+* Comes with everything on Planqi's 1.9.9(default with SlashDiablo launcher) but with some new features on top such as:
 * Updated Dec 12 2020 (added player count column, session counter)
 * Show Automap on Join
 * permanently show items on ground (press L 1 time to toggle)
@@ -68,7 +68,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
 * Auto skip npc quest messages
 * Hotkey to use rejuv potions from inventory
 * Item mover features fixed with plugy
-* Run tracker - Track xp and drops for your character. File saved in `./data/%CHARNAME%.csv`, a folder called `data` in your slashdiablo directory 
+* Run tracker - Track xp and drops for your character. File saved in `./data/%CHARNAME%.csv`, a folder called `data` in your SlashDiablo directory 
 * Note: in BH_settings.cfg `Run Details Ping Level` is the ping level of items you want to record (default ping level 4). You can add `%notrack%`  in your config if you want to disable tracking of certain  items like charms/gems.
 * More details here about this BH version can be found in dschu012's pull requests [here](https://github.com/planqi/slashdiablo-maphack/pulls)
 
@@ -92,15 +92,17 @@ This is for the slashdiablo default reference files. See the [Old releases](http
 # LeBron's BH.cfg Compared to m81's last config v2.5.9 (slashdiablo default)
 * Differentiated a bit more between filter level 1 and 2 on some items, mostly to add a gap for the first week or two after a ladder reset until endgame filter levels 2 and 3.
 * Added pings for some missing items
-* Added ability to easily expand with holy grail items to utilize the new slashdiablo Holy Grail system with the slash chrome extension or [all uniques and sets listed here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt)
-* Added more info and links to help palyers customize and achieve what they want
+* Added tiers for identified magic items
+* Added ability to easily expand with holy grail items to utilize the new SlashDiablo Holy Grail system with the slash chrome extension or [all uniques and sets listed here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt)
+* Added more info and links to help players customize and achieve what they want
 * Most old lines maintanined if users feel like using the older ones instead.
+* Order tiers so it's more legible separated sets/uniques and armors/weapons on white/magics/rares
 
 * Gems:
 
   - Flawless topaz and rubys notify if filtlvl 0 and 1 with tier 6 only
   - Flawless diamonds notify if filvlvl is 0 or 1 and char level is under 40 and tier=6
-  - chipped, flawed, and regular topaz's, rubys, saphires notify if filtlvl 0 and char lvl under 20
+  - chipped, flawed, and regular topaz's, ruby's, sapphires notify if filtlvl 0 and char lvl under 20
   - flawed+ diamonds notify if filtlvl 0 and char lvl under 26
   - chipped gems for repairing show up as a small gray dot on map if filtlvl is 0 or 1 and tier =4
 
@@ -111,7 +113,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - added sol lines to behave like rals for ring crafting (uncomment // to use)
   - spirit rune sets get small green dots with filtlvl 0 and 1 and tier 6
   - insight runes get small red dots with filtlvl 0 and 1 and tier 6
-  - orts for reparing get small gray dot if filtlvl 0 or 1 and tier 4
+  - orts for repairing get small gray dot if filtlvl 0 or 1 and tier 4
   - low runes get pinged if fitlvl 0 and tier 6
   - Map lines added for tier 1 and 2 runes
   - added description for gul and Herb for dclone spawn instructions (slash specific)
@@ -131,7 +133,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - 2 socket armors for stealth
   - 2 socket small shields
   - 3 socket armors 
-  - 3 socket spetum 
+  - 3 socket septum 
   - 3 socket flails 
   - 2 socket staves with 3 warmth
   - 2 socket staves with + to enchant
@@ -143,8 +145,8 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - added ilvl and price display lines for all items (uncomment // to use)
 
 * Added holy grail section
-  - Easily add uniques and sets using the provided area and instructions. Use either the [slashdiablo chrome extensions](https://chrome.google.com/webstore/detail/slash-diablo-tools/hfbigecinjgkbmdldhgogmdjfblpkagp) or the list [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt) to add items into this section of the config
-  - added ping all uniques/set optional lines in this section that are off by defualt (uncomment // to use) 
+  - Easily add uniques and sets using the provided area and instructions. Use either the [SlashDiablo chrome extensions](https://chrome.google.com/webstore/detail/slash-diablo-tools/hfbigecinjgkbmdldhgogmdjfblpkagp) or the list [here](https://github.com/BeLikeLeBron/bhconfig/blob/master/Holy_Grail_All_Uniques_and_Sets.txt) to add items into this section of the config
+  - added ping all uniques/set optional lines in this section that are off by default (uncomment // to use) 
  
 * Uniques:
 - Tier 1
@@ -188,7 +190,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
  
 - Tier 5
   - 4os ETH monarch (spirit)
-  - 3os gothic and ancinet armors with ED moved to tier 5 (previously tier 4)
+  - 3os gothic and ancient armors with ED moved to tier 5 (previously tier 4)
   - 6os phase blade (Gold find / Last wish / 6 ist)
   - 2 chant orb capable of 3os (plague) -Slash Specific
   - 1 chant 1 ES orb capable of 3os (plague) -Slash Specific (uncomment // to use)
@@ -210,9 +212,9 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - Eth Ettin Axe 0/5os with ED (death) moved to tier 6 (previously tier 4)
   - 4os phase blade (Passion) moved to tier 6 (previously tier 4)
   - 2os/3os eth elite armors added for merc on filter lvel 0 and 1 only
-  - 0/4/5os elite polearms for insight/obedience added (non cv) on filter lvel 0 and 1 only
+  - 0/4/5os elite polearms for insight/obedience added (non cv) on filter level 0 and 1 only
   - 2os exceptional spears/polearms for strength runeword when char lvl is under 60
-  - masks that get 3 sockets from larzuk when char lvl is under 45
+  - masks that get 3 sockets from Larzuk when char lvl is under 45
   - 3os mage plates added
   - 3os elite armor bases with lower defenses added here
   - imbuable diadems moved to tier 6 (previously tier 5)
@@ -228,7 +230,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - Grand charms from Baal, Diablo, Nihlathak for potential 45 lifers
 - Tier 4
   - Grand charms show blue border with gray dot
-  - Made jewels a seperate lines
+  - Made jewels a separate lines
   - small charms show blue border with green dot and orange pixel
 - Tier 6
   - eth magic circlets added
@@ -243,7 +245,7 @@ This is for the slashdiablo default reference files. See the [Old releases](http
 * Rare items:
 - Made boxes on map more visibly appealing (you can tell what dropped by just looking at the different box style)
 - Tier 4
-  - rare amulets are still t4 except for potential +2 class skill amulers from Baal, Diablo, and Nihlathak (those are t3).
+  - rare amulets are still t4 except for potential +2 class skill amulets from Baal, Diablo, and Nihlathak (those are t3).
 - Tier 5
   - rare jewels are now t5 (previously tier 4)
   - rare boots (not Myrmidon - too high str req) ping t5
@@ -270,4 +272,4 @@ This is for the slashdiablo default reference files. See the [Old releases](http
   - added item description for  2os exceptional Spears or Polearms - Strength runeword
   - added tp scrolls, id scrolls, and keys to be hidden if filtlvl=3 (remove // to use these lines)
   - Certain useless Rare weapons hidden on filtlvl=2 (non eth only)
-  - potion filter sectioned and clarrified for customizability
+  - potion filter sectioned and clarified for customizability
