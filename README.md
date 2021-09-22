@@ -1,15 +1,15 @@
 # About this config
 
 These files were designed for SlashDiablo but can be used elsewhere since Slash is vanilla D2 with very few changes. 
-These are close to M81's (SlashDiablo default) BH maphack config tier system with quite a bit of changes to add QoL for low levels + some endgame things. Lots of changes are all logged in the link below. The settings file also utilizes the beta features added by DannyIsGreat like showing all items on the ground without holding a button and tracking your runs for you.
-This version makes it super easy to add items for your holy grail needs as well. BH-classic is a config specifically for in classic D2 mode.
+These are close to M81's (SlashDiablo default) BH maphack config tier system with quite a bit of changes to add QoL for low levels + some endgame things. Lots of changes are all logged in the link below. More user friendly and noob friendly with identified tiers for all types of items and labels for easy editing. The settings file also utilizes the beta features added by DannyIsGreat like showing all items on the ground without holding a button and tracking your runs for you.
+This version makes it super easy to add items for your holy grail needs as well. It can also be used in classic D2 mode with it's own separate tiers and filters!
 
 # INSTALLATION INSTRUCTIONS
 * Close all Diablo 2
 * Backup your `BH.cfg` file in the diablo 2 folder if you care for your old config
 * In SlashDiablo launcher set Maphack Version to None and Override to  ON
 * Patch/update with Launcher
-* Download `BH.cfg`, `BH-classic.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
+* Download `BH.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
 * In game you can toggle permanently show items on ground (press L 1 time to toggle)
 * Run tracker - Track xp and drops for your character. File saved in ./data/%CHARNAME%.csv, a folder called data in your slashDiablo directory 
 * You can now also use the run tracker infographic with these run log files https://redd.it/khhgha
@@ -59,7 +59,8 @@ This version makes it super easy to add items for your holy grail needs as well.
 This is for the SlashDiablo default reference files. See the [Old releases](https://github.com/youbetterdont/bhconfig/releases) page for the change logs.
 
 
-#  dschu012's (Danny's) BH.cfg BETA features
+# BH.DLL 1.9.10 features
+* CURRENTLY IN BETA!
 * Comes with everything on Planqi's 1.9.9(default with SlashDiablo launcher) but with some new features on top such as:
 * Updated Dec 12 2020 (added player count column, session counter)
 * Show Automap on Join
@@ -68,6 +69,10 @@ This is for the SlashDiablo default reference files. See the [Old releases](http
 * Auto skip npc quest messages
 * Hotkey to use rejuv potions from inventory
 * Item mover features fixed with plugy
+* Classic filter option for CLASSIC lines (and !CLASSIC for expansion only lines)
+* Area level shown in top right of hud
+* Configurable stat range colors (default dark green)
+* Custom colors for monster enchantments and auras configurable in Bh_Settings.cfg
 * Run tracker - Track xp and drops for your character. File saved in `./data/%CHARNAME%.csv`, a folder called `data` in your SlashDiablo directory 
 * Note: in BH_settings.cfg `Run Details Ping Level` is the ping level of items you want to record (default ping level 4). You can add `%notrack%`  in your config if you want to disable tracking of certain  items like charms/gems.
 * More details here about this BH version can be found in dschu012's pull requests [here](https://github.com/planqi/slashdiablo-maphack/pulls)
@@ -84,10 +89,10 @@ This is for the SlashDiablo default reference files. See the [Old releases](http
 * Run tracker info
 * Mustache template for stash export
 
-# LeBron's BH-classic.cfg
+# Classic Features
 * has many nice features mentioned above and below that use the filtlvl and ping lvl's just like the expansion one, but dedicated to classic items only.
-* To be used only in classic mode of Diablo 2.
-* Rename to BH.cfg before use. more detailed instructions in the classic config file.
+* It's now combined into the BH.cfg on this page.
+* Note: BH-Classic.cfg will be the final version of this classic config as it's now all combined into the bh.cfg file for future versions. Keeping this BH-Classic version here because it is backwards compatible with older bh.dll files pre 1.9.10. To be used only in classic mode of Diablo 2. Rename to BH.cfg before use. more detailed instructions in the classic config file.
 
 # LeBron's BH.cfg Compared to m81's last config v2.5.9 (slashdiablo default)
 * Differentiated a bit more between filter level 1 and 2 on some items, mostly to add a gap for the first week or two after a ladder reset until endgame filter levels 2 and 3.
@@ -97,6 +102,10 @@ This is for the SlashDiablo default reference files. See the [Old releases](http
 * Added more info and links to help players customize and achieve what they want
 * Most old lines maintanined if users feel like using the older ones instead.
 * Order tiers so it's more legible separated sets/uniques and armors/weapons on white/magics/rares
+* Tiers for identified Items (uniques/sets/magics/rares/crafts)
+* classic compatible lines + customization features/tiers/descriptions
+* better descriptions, logging, and easy instructions added.
+* Many other features not logged here, but logged in the actual Bh.cfg file.
 
 * Gems:
 
@@ -175,6 +184,8 @@ This is for the SlashDiablo default reference files. See the [Old releases](http
   - Hsarus' Iron Heel (Chain Boots) only if filter = 0
   - The Ward (Gothic Shield) only if filter = 0
   - Wall of the Eyeless (Bone Shield) only if filter = 0
+- Identified unique and set tiers added
+- Classic uniques/sets added for use with classic automatically
 
 * Socketables:
 - Tier 3
@@ -241,6 +252,8 @@ This is for the SlashDiablo default reference files. See the [Old releases](http
   - magic amulets Ping if filter level 0 and tier 5
   - magic amulets ping if filter level 1 and tier 6
   - magic amulets ilvl 88+ ping if filter level 1 and tier 5
+- Classic Magic tiers added for use with classic automatically
+- Identified Magic tiers added
 
 * Rare items:
 - Made boxes on map more visibly appealing (you can tell what dropped by just looking at the different box style)
@@ -257,7 +270,12 @@ This is for the SlashDiablo default reference files. See the [Old releases](http
   - Rare Ogre Gauntlets
   - Rare Myrmidon Boots
   - Rare Troll belts and Colossus Girdle
+- Classic rare tiers added for use with classic automatically
+- Identified Rare tiers added
+
 * Other:
+  - Identified Crafted tiers added
+  - Classic custom lines throughout the config and filtering + descriptions added for classic d2 mode.
   - Rejuves are +R1 and +R2+. made the white dot purple. 
   - Greater potions are not hidden on filter level 1, hidden on filter level 2+ automatically.
   - Items worth good gold will have $ and prices in front
