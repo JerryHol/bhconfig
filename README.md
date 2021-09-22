@@ -87,6 +87,10 @@ This is for the SlashDiablo default reference files. See the [Old releases](http
 * always view loot option
 * Highlight Chaos Seal bosses/ubers on minimap (purple color)
 * Run tracker info
+* Tp button 5 (customizable)
+* Custom monster enchantments (conviction bosses highlighted yellow)
+* Area levels shown
+* more descriptions and instructions
 * Mustache template for stash export
 
 # Classic Features
