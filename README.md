@@ -13,6 +13,7 @@ This version makes it super easy to add items for your holy grail needs as well.
 * In game you can toggle permanently show items on ground (press L 1 time to toggle)
 * Run tracker - Track xp and drops for your character. File saved in ./data/%CHARNAME%.csv, a folder called data in your slashDiablo directory 
 * You can now also use the run tracker infographic with these run log files https://redd.it/khhgha
+* Recommended filter level 1 and ping level 5 or 6, but use whatever you want depending on what items you want notifications for (pings) and what you want to see on the ground (filter)!
 * Enjoy 
 
 - Requires Danny's BETA BH>=1.9.9 for BH_Setting.cfg.
