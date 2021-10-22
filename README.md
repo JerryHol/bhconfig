@@ -9,7 +9,7 @@ This version makes it super easy to add items for your holy grail needs as well.
 * Backup your `BH.cfg` file in the diablo 2 folder if you care for your old config
 * In SlashDiablo launcher set Maphack Version to None and Override to  ON
 * Patch/update with Launcher
-* Download `BH.cfg`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
+* Download `BH.cfg`, `buffs.mpq`, `BH_settings.cfg` and `BH.dll` from the releases page [here](https://github.com/BeLikeLeBron/bhconfig/releases/latest) and Put them into your Diablo 2 Slash Diablo folder.
 * In game you can toggle permanently show items on ground (press L 1 time to toggle)
 * Run tracker - Track xp and drops for your character. File saved in ./data/%CHARNAME%.csv, a folder called data in your slashDiablo directory 
 * You can now also use the run tracker infographic with these run log files https://redd.it/khhgha
@@ -64,6 +64,7 @@ This is for the SlashDiablo default reference files. See the [Old releases](http
 # BH.DLL 1.9.10 features
 * CURRENTLY IN BETA!
 * Comes with everything on Planqi's 1.9.9(default with SlashDiablo launcher) but with some new features on top such as:
+* Added show Buff/debuff system so you can view the current active buffs on your character (such as BO and Auras) (credit Arolds) 
 * Updated Dec 12 2020 (added player count column, session counter)
 * Show Automap on Join
 * permanently show items on ground (press L 1 time to toggle)
